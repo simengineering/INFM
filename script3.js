@@ -14,7 +14,7 @@ class MenuLinks extends React.Component {
       {
         text: 'Twitter',
         link: 'https://twitter.com/MattIndigo1',
-        icon: 'fa-twitter' }] };
+        icon: 'fa-twitter' },
        
       {
         text: 'Interests',
