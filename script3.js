@@ -8,12 +8,12 @@ class MenuLinks extends React.Component {
         link: 'index.html',
         icon: 'fa-pencil-square-o' },
       {
-        text: 'Github',
+        text: 'Github page',
         link: 'https://github.com/simengineering',
         icon: 'fa-github' },
       {
-        text: 'Interests',
-        link: 'family/index.html',
+        text: 'Twitter',
+        link: 'https://twitter.com/MattIndigo1',
         icon: 'fa-twitter' }] };
 
 
