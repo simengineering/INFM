@@ -13,7 +13,7 @@ class MenuLinks extends React.Component {
         icon: 'fa-github' },
       {
         text: 'Interests',
-        link: 'family',
+        link: 'family/index.html',
         icon: 'fa-twitter' }] };
 
 
