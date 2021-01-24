@@ -12,8 +12,8 @@ class MenuLinks extends React.Component {
         link: 'https://github.com/simengineering',
         icon: 'fa-github' },
       {
-        text: 'Twitter',
-        link: 'https://twitter.com/MattIndigo1',
+        text: 'Interests',
+        link: 'family',
         icon: 'fa-twitter' }] };
 
 
