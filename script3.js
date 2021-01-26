@@ -19,7 +19,7 @@ class MenuLinks extends React.Component {
       {
         text: 'Interests',
         link: 'https://simengineering.github.io/INFM/family',
-        icon: 'fa-cat' }] };
+        icon: 'fa-heart-o' }] };
 
   }
   render() {
