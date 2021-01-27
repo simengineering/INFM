@@ -5,7 +5,7 @@ class MenuLinks extends React.Component {
     this.state = {
       links: [{
         text: 'Back',
-        link: 'index.html',
+        link: 'http://infm.mercer.edu/infm212/2021_sp1/Matthew_H/',
         icon: 'fa-pencil-square-o' },
       {
         text: 'Github page',
