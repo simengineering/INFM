@@ -2,10 +2,10 @@
 	"gallery": [
   	{
     	"id": 0,
-      "name": "Natasha",
+      "name": "Me and Natasha",
       "desc": "This is my wife Natasha, she is the best!",
       "tags": ["Natasha"],
-      "src": "images/natasha.jpg"
+      "src": "images/me_natasha.jpg"
     },
     {
     	"id": 1,
@@ -34,14 +34,7 @@
       "desc": "This is Lisa, she is moody and particular but we love her very much...:)",
       "tags": ["Lisa"],
       "src": "images/lisa.jpg"
-    },
-    {
-    	"id": 5,
-      "name": "Me",
-      "desc": "I'm the luckiest guy in the world!",
-      "tags": ["Me"],
-      "src": "images/me_natasha.jpg"
-   
+      
     }
   ]
 }
