@@ -19,7 +19,7 @@
       "name": "Sofia",
       "desc": "Sofia is 16 and loving life. She is a social butterfly, loves anime and is an excellent artist.",
       "tags": ["City", "Skyline", "Building", "Skyscraper", "Summer"],
-      "src": "images/sofia.jpg"
+      "src": "images/MATT_SOFIA.jpg"
     },
     {
     	"id": 3,
@@ -40,7 +40,7 @@
       "name": "Me",
       "desc": "I'm the luckiest guy in the world!",
       "tags": ["Sunset", "Nature", "Cactus", "Desert", "Grass"],
-      "src": "images/matt.jpg"
+      "src": "images/me_natasha.jpg"
    
     }
   ]
