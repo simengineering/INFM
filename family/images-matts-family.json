@@ -4,42 +4,36 @@
     	"id": 0,
       "name": "Natasha",
       "desc": "This is my wife Natasha, she is the best!",
-      "tags": ["Mom", "Adrian", "Sofia", "Biscuit", "Lisa"],
       "src": "images/natasha.jpg"
     },
     {
     	"id": 1,
       "name": "Adrian",
       "desc": "Gamer alert! This little guy is all up in the online games for kids. His two main platforms are Minecraft and Roblox.",
-      "tags": ["Hills", "Nature", "Forest", "Moutains", "Field"],
       "src": "images/adrian.jpg"
     },
     {
     	"id": 2,
       "name": "Sofia",
       "desc": "Sofia is 16 and loving life. She is a social butterfly, loves anime and is an excellent artist.",
-      "tags": ["City", "Skyline", "Building", "Skyscraper", "Summer"],
       "src": "images/MATT_SOFIA.jpg"
     },
     {
     	"id": 3,
       "name": "Biscuit",
       "desc": "This is the little king of the house. He works very hard every day to get maximum naps and has many, many chill spots. His favorite spot is the bathroom sink!",
-      "tags": ["Forest", "Lake", "Rocks", "Nature", "Mountain"],
-      "src": "images/Biscuit.jpg"
+      "src": "images/biscuit.jpg"
     },
     {
     	"id": 4,
       "name": "Lisa",
       "desc": "This is Lisa, she is moody and particular. She is a little bit of a weirdo but we love her very much...:)",
-      "tags": ["Sea", "Ocean", "Waves", "Surf", "Blue"],
       "src": "images/lisa.jpg"
     },
     {
     	"id": 5,
       "name": "Me",
       "desc": "I'm the luckiest guy in the world!",
-      "tags": ["Sunset", "Nature", "Cactus", "Desert", "Grass"],
       "src": "images/me_natasha.jpg"
    
     }
