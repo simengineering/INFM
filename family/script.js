@@ -8,7 +8,7 @@ function _extends() {_extends = Object.assign || function (target) {for (var i =
 
   }
   componentWillMount() {
-    this._loadData('https://s3-us-west-2.amazonaws.com/s.cdpn.io/735173/rpg-2-data.json');
+    this._loadData('images-matts-family.json');
   }
   componentWillUnmount() {
     this._loadData.abort();
