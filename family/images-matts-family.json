@@ -24,14 +24,14 @@
     {
     	"id": 3,
       "name": "Biscuit",
-      "desc": "This is the little king of the house. He works very hard every day to get maximum naps and has many, many chill spots. His favorite spot is the bathroom sink!",
+      "desc": "This is the little king of the house. He works very hard every day to get maximum naps. His favorite spot is the bathroom sink!",
       "tags": ["Biscuit"],
       "src": "images/biscuit.jpg"
     },
     {
     	"id": 4,
       "name": "Lisa",
-      "desc": "This is Lisa, she is moody and particular. She is a little bit of a weirdo but we love her very much...:)",
+      "desc": "This is Lisa, she is moody and particular but we love her very much...:)",
       "tags": ["Lisa"],
       "src": "images/lisa.jpg"
     },
