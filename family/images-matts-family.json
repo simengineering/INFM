@@ -10,7 +10,7 @@
     {
     	"id": 1,
       "name": "Adrian",
-      "desc": "Gamer alert! This little guy is all up in the online games for kids. His two main platforms are Minecraft and Roblox.",
+      "desc": "Gamer alert! This little guy loves his online games for kids. His two main platforms are Minecraft and Roblox.",
       "tags": ["Adrian"],
       "src": "images/adrian3.jpg"
     },
@@ -31,7 +31,7 @@
     {
     	"id": 4,
       "name": "Lisa",
-      "desc": "This is Lisa, she is moody and particular but we love her very much...:)",
+      "desc": "This is Lisa, she likes to chill...:)",
       "tags": ["Lisa"],
       "src": "images/lisa.jpg"
       
