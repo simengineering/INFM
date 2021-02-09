@@ -6,9 +6,10 @@ body {
   margin: 0;
   box-sizing: border-box;
 }
-a:hover {
-background-color: #f8f8f8;
+a:hover{
+background-color: #6554D5;
 }
+
 .menubar {
   display: block;
   height: 60px;
